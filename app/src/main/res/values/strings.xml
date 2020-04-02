@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExerciseMenu</string>
+    <string name="labelapp">ExerciseMenu</string>
+    <string name="judul">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="pw">Password</string>
+</resources>
